@@ -3,6 +3,7 @@
 
 ![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Numbers_In_Strings/master/Images/RegEx.png)
 
+*Regular Expression came in handy. So did help from GeeksforGeeks.com - like this picture!*
 
 ## Numbers In Strings
 
