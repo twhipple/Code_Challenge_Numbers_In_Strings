@@ -1,7 +1,7 @@
 
 # Code Challenge: 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Numbers_In_Strings/Images/RegEx.png)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Numbers_In_Strings/master/Images/RegEx.png)
 
 
 ## Numbers In Strings
